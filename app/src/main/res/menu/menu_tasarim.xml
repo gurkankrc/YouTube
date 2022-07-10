@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/home_icon"
+        android:title="Ana Sayfa" />
+    <item
+        android:icon="@drawable/shorts_icon"
+        android:title="Shorts" />
+    <item
+        android:icon="@drawable/abonelik_icon"
+        android:title="Abonelikler" />
+    <item
+        android:icon="@drawable/kitaplik_icon"
+        android:title="Kitaplık" />
+</menu>
