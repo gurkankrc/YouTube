@@ -55,10 +55,10 @@ class AnasayfaFragment : Fragment() {
 
         var videolarListesi = ArrayList<Videolar>()
 
-        val v1 = Videolar(1,"trend1","resim_icon","Mabel Matiz - Karakol","mabelmatiz","6,7 Mn Görüntülenme","9 gün önce")
-        val v2 = Videolar(2,"trend2","resim_icon2","Kurtuluş Kuş & Feryal Sepin & Burak Bulut - Karalaya Karalaya","netd müzik","9 Mn Görüntülenme","9 gün önce")
-        val v3 = Videolar(3,"trend3","resim_icon3","Murda & Hadise - Imdat (prod.Spanker)","Murda","4,2 Mn Görüntülenme","9 gün önce")
-        val v4 = Videolar(4,"trend4","resim_icon2","Semicenk & Mustafa Ceceli - Dayan ","netd müzik","8,9 Mn Görüntülenme","2 hafta önce")
+        val v1 = Videolar(1,"yeni_resim1","yeni_icon1","Mabel Matiz - Karakol","mabelmatiz","6,7 Mn Görüntülenme","9 gün önce")
+        val v2 = Videolar(2,"yeni_resim2","yeni_icon2","Kurtuluş Kuş & Feryal Sepin & Burak Bulut - Karalaya Karalaya","netd müzik","9 Mn Görüntülenme","9 gün önce")
+        val v3 = Videolar(3,"yeni_resim3","yeni_icon3","Murda & Hadise - Imdat (prod.Spanker)","Murda","4,2 Mn Görüntülenme","9 gün önce")
+        val v4 = Videolar(4,"yeni_resim4","yeni_icon2","Semicenk & Mustafa Ceceli - Dayan ","netd müzik","8,9 Mn Görüntülenme","2 hafta önce")
 
         videolarListesi.add(v1)
         videolarListesi.add(v2)

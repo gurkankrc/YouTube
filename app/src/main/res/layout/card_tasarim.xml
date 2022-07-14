@@ -18,19 +18,20 @@
             <ImageView
                 android:id="@+id/imageViewVideo"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_height="250dp"
+                app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:srcCompat="@drawable/trend1" />
+                app:srcCompat="@drawable/yeni_resim1" />
 
             <ImageView
                 android:id="@+id/imageViewIcon"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:layout_width="74dp"
+                android:layout_height="74dp"
                 android:layout_marginTop="8dp"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/imageViewVideo"
-                app:srcCompat="@drawable/resim_icon" />
+                app:srcCompat="@drawable/yeni_icon1" />
 
             <TextView
                 android:id="@+id/textViewVideoAd"
